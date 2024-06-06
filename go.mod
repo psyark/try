@@ -1,3 +1,4 @@
+// Deprecated: Use github.com/samber/lo instead.
 module github.com/psyark/try
 
 go 1.21
